@@ -138,9 +138,9 @@ Distributed under the **MIT License**. See `LICENSE` for more information.
 
 If you love cars, code, or both, let's connect!
 
-* **Developer:** [Your Name]
+* **Developer:** [Rauf Babayev]
 * **Live Demo:** [luxedrivecar.lovable.app](https://luxedrivecar.lovable.app)
-* **LinkedIn:** [Your LinkedIn Link]
+* **LinkedIn:** [Rauf Babayev]
 * **Location:** Baku, Azerbaijan 🇦🇿
 
 ---
