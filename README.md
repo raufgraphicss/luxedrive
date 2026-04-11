@@ -77,7 +77,8 @@ Follow these steps to get the project running on your local machine:
 
 1. **Clone the Repository:**
 ```bash
-git clone [https://github.com/yourusername/luxedrive.git](https://github.com/yourusername/luxedrive.git)
+git clone [https://github.com/
+raufgraphicss/luxedrive.git](https://github.com/raufgraphicss/luxedrive.git)
 
 ```
 
